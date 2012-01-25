@@ -1,0 +1,1 @@
+console.log('Hi! I\'m lib2.js');
