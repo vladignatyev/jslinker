@@ -9,6 +9,7 @@ Simple example will generate c.js, which includes all referenced dependencies:
 
     python linker.py -i ./sample/nicesample/component.js -o ./sample/nicesample/c.js -c ./sample/nicesample/
 
+Remember to add js/import.js to your HTML files!
 
 ## How can I get help?
 
