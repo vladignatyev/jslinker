@@ -1,4 +1,4 @@
-Atom Javascript Linker
+Javascript Linker
 ----------------------
 
 Simpliest ever linker for Javascript projects
