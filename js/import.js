@@ -1,1 +1,1 @@
-if (import === undefined) import = function (classname) {}
+if (window.$import === undefined) $import = function (classname) {};

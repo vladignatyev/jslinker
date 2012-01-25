@@ -5,7 +5,7 @@ import sys
 
 __author__ = 'Vladimir Ignatyev'
 
-re_import = re.compile('import\s*\(\s*[\'\"]([^\)]+)[\'\"]\s*\)')
+re_import = re.compile('\$import\s*\(\s*[\'\"]([^\)]+)[\'\"]\s*\)')
 
 def classnames_from_import(line):
     return re.findall(re_import, line)
