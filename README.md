@@ -11,6 +11,8 @@ Simple example will generate c.js, which includes all referenced dependencies:
 
 Remember to add js/import.js to your HTML files!
 
+TODO: Add some examples for Ant and Google Closure
+
 ## How can I get help?
 
     python linker.py --help
